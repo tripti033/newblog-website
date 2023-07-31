@@ -60,7 +60,7 @@ const Blog = () => {
       inputPosition="top"
       theme="light_high_contrast"
       lang="en"
-      loading="lazy"
+     
     />
 
     </>
