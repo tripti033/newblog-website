@@ -50,7 +50,7 @@ const Blog = () => {
 
 <Giscus
       id="comments"
-      repo="tripti033/My_first_blog_website"
+      repo="tripti033/https-blogisthe.netlify.app-"
       repoId="R_kgDOKBwu3Q"
       category="Announcements"
       categoryId="DIC_kwDOKBwu3c4CYP0Z"
@@ -58,7 +58,7 @@ const Blog = () => {
       reactionsEnabled="1"
       emitMetadata="0"
       inputPosition="top"
-      theme="light_high_contrast"
+      theme="preferred_color_scheme"
       lang="en"
      
     />
