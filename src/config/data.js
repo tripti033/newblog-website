@@ -267,7 +267,6 @@ export const blogList = [
         With the help of these plugins, designers can streamline their workflow, automate repetitive tasks and perform more specific design tasks that would otherwise be challenging or time-consuming.
       </p>
     `,
-   
     createdAt: 'June 03, 2021',
     cover: '/assets/images/Synthwave-Postmodern.jpg',
   },
