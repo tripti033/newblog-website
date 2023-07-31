@@ -51,7 +51,7 @@ const Blog = () => {
 <Giscus
       id="comments"
       repo="tripti033/My_first_blog_website"
-      repoId="R_kgDOKBwu3Q="
+      repoId="R_kgDOKBwu3Q"
       category="Announcements"
       categoryId="DIC_kwDOKBwu3c4CYP0Z"
       mapping="pathname"
