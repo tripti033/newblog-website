@@ -51,7 +51,7 @@ const Blog = () => {
 <Giscus
       id="comments"
       src="https://giscus.app/client.js"
-      repo="tripti033/https-blogisthe.netlify.app-"
+      repo="tripti033/newblog-website"
       repoId="R_kgDOKBwu3Q"
       category="Announcements"
       categoryId="DIC_kwDOKBwu3c4CYP0Z"
