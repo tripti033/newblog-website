@@ -49,8 +49,7 @@ export const blogList = [
 
     `,
     
-    authorName: 'John Doe',
-    authorAvatar: '/assets/images/author.jpg',
+  
     createdAt: 'June 03, 2021',
     cover: '/assets/images/designer-1.jpg',
   },
@@ -81,8 +80,7 @@ export const blogList = [
         With the help of these plugins, designers can streamline their workflow, automate repetitive tasks and perform more specific design tasks that would otherwise be challenging or time-consuming.
       </p>
     `,
-    authorName: 'John Doe',
-    authorAvatar: '/assets/images/author.jpg',
+   
     createdAt: 'June 03, 2021',
     cover: '/assets/images/f67396fc3cfce63a28e07ebb35d974ac.jpg',
   },
@@ -113,8 +111,7 @@ export const blogList = [
         With the help of these plugins, designers can streamline their workflow, automate repetitive tasks and perform more specific design tasks that would otherwise be challenging or time-consuming.
       </p>
     `,
-    authorName: 'John Doe',
-    authorAvatar: '/assets/images/author.jpg',
+    
     createdAt: 'June 03, 2021',
     cover: '/assets/images/fQwuyKJ9qxjSbr6REcgtmW-1200-80.jpg',
   },
@@ -145,8 +142,7 @@ export const blogList = [
         With the help of these plugins, designers can streamline their workflow, automate repetitive tasks and perform more specific design tasks that would otherwise be challenging or time-consuming.
       </p>
     `,
-    authorName: 'John Doe',
-    authorAvatar: '/assets/images/author.jpg',
+    
     createdAt: 'June 03, 2021',
     cover: '/assets/images/graphic-design-trends.png',
   },
@@ -177,8 +173,7 @@ export const blogList = [
         With the help of these plugins, designers can streamline their workflow, automate repetitive tasks and perform more specific design tasks that would otherwise be challenging or time-consuming.
       </p>
     `,
-    authorName: 'John Doe',
-    authorAvatar: '/assets/images/author.jpg',
+    
     createdAt: 'June 03, 2021',
     cover: '/assets/images/make-it-personal.jpg',
   },
@@ -209,8 +204,7 @@ export const blogList = [
         With the help of these plugins, designers can streamline their workflow, automate repetitive tasks and perform more specific design tasks that would otherwise be challenging or time-consuming.
       </p>
     `,
-    authorName: 'John Doe',
-    authorAvatar: '/assets/images/author.jpg',
+    
     createdAt: 'June 03, 2021',
     cover:
       '/assets/images/Purple-Combination-colors-graphic-design-predictions-1024x576-1024x576.jpg',
@@ -242,8 +236,7 @@ export const blogList = [
         With the help of these plugins, designers can streamline their workflow, automate repetitive tasks and perform more specific design tasks that would otherwise be challenging or time-consuming.
       </p>
     `,
-    authorName: 'John Doe',
-    authorAvatar: '/assets/images/author.jpg',
+   
     createdAt: 'June 03, 2021',
     cover: '/assets/images/Synthwave-Postmodern.jpg',
   },
@@ -274,8 +267,7 @@ export const blogList = [
         With the help of these plugins, designers can streamline their workflow, automate repetitive tasks and perform more specific design tasks that would otherwise be challenging or time-consuming.
       </p>
     `,
-    authorName: 'John Doe',
-    authorAvatar: '/assets/images/author.jpg',
+   
     createdAt: 'June 03, 2021',
     cover: '/assets/images/Synthwave-Postmodern.jpg',
   },
